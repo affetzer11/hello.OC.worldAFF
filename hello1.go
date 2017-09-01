@@ -1,4 +1,3 @@
-# hello.OC.worldAFF
 package main
 import "fmt"
 
